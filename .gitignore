@@ -13,3 +13,6 @@ __pycache__/
 *.log
 logs/
 log/
+
+# file
+de422.bsp
