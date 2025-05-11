@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+
+# Virtual Environment
+.env
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Logs
+*.log
+logs/
+log/
